@@ -1,0 +1,38 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-11_07-28-42.log started at 11.07. 07:28:42
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<a4125240> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<a4125240> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<a5e050d0> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<a5e050d0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<a4125310> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<a4125310> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<987b4600> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<987b4600> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<a4125240> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<a4125240> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<a417c3a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<a417c3a0> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 15
+SCRIPT       : [emote] SurvivorM_Peter:01 play emote id=14 IH=null
+SCRIPT       : ~DayZGame()

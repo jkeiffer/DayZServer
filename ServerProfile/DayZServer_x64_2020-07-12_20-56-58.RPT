@@ -1,0 +1,673 @@
+
+
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe  -config=serverDZ.cfg -profiles=ServerProfile -limitFPS=120
+=====================================================================
+Exe timestamp: 2020/07/10 16:13:22
+Current time:  2020/07/12 20:57:00
+
+Version 1.08.153258
+20:57:00.38 [Inputs] Loading inputs default "bin/constants.xml"
+20:57:00.54 [Inputs] Loading inputs default "bin/specific.xml"
+20:57:00.54 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+20:57:00.54 [Inputs] Loading inputs cfg "ServerProfile\Users\Survivor\Server.core.xml"
+20:57:00.54 !!! [Inputs] Cannot read inputs cfg "ServerProfile\Users\Survivor\Server.core.xml", parser error
+20:57:00.54 [Inputs] Loading inputs cfg "bin/core.xml"
+20:57:00.54 !!! [Inputs] Cannot load input preset "user", file does not exist
+20:57:00.54 [Inputs] Exporting inputs cfg "ServerProfile\Users\Survivor\Server.core.xml"
+20:57:13.103 [CE][Hive] :: Initializing OFFLINE
+20:57:13.103 [CE][Hive] :: Loading core data ... 
+20:57:13.103 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+20:57:15.71 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsMotorbike' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsMotorbike' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsMotorbike' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsCitySkate' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsCity' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'bagsIndustrial' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFirefighter' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsMedic' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsMedic' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'vestsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'vestsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'vestsPolice' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsPrisoner' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE] :: WARNING :: Preset (attachments) with name 'hatsFarm' was not found.
+20:57:15.71 [CE][TypeSetup] :: 263 classes setuped...
+20:57:15.150 [CE][RegisterBind] :: 0 classes binded...
+20:57:15.150 [CE][RegisterConfig] :: 2924 config classes registered, 1 sub-counters...
+20:57:15.150 [CE][Hive] :: Loading map data ... 
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 !!! [CE] :: Unknown category: 'vehicleparts'.
+20:57:15.196 [CE][LoadPrototype] :: loaded 329 prototypes
+20:57:15.196   701 containers, 9117 points
+20:57:15.196   24 dispatches, 90 proxies
+20:57:15.196 !!! [CE][LoadPrototype] 12 groups have no points...
+20:57:15.196 !!![CE][LoadPrototype]  3 groups have wrong points...
+20:57:15.196 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+20:57:15.196 [CE][LoadPrototype] :: loaded 0 prototypes
+20:57:15.196   0 containers, 0 points
+20:57:15.196   0 dispatches, 0 proxies
+20:57:15.196 [CE][LoadPrototype] :: last group name: Rail9...
+20:57:15.696 [CE][LoadMap] "Group" :: loaded 11599 groups, largest group range: 34.2
+20:57:15.712 [CE][LoadMap] "Dirt" :: loaded 0 groups, largest group range: 34.2
+20:57:16.134 [CE][Links] found 1896 total links between groups, of 11599
+20:57:16.134 [CE][LoadClusters] "Cluster" :: Loading files...
+20:57:16.306 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+20:57:16.509 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+20:57:16.696 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+20:57:16.899 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+20:57:16.978 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17229 instances
+20:57:16.978 [CE][Storage] ver:21 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+20:57:16.993 [CE][Storage] ver:21 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+20:57:16.993 [CE][Storage] ver:21 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+20:57:16.993 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+20:57:17.09 [CE][offlineDB] :: Loaded 37 dynamic events 216 total types 0 total positions.
+20:57:17.24 !!! [CE] :: Unknown usage: 'Lunapark'.
+20:57:17.24 [CE][Storage] ver:21 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+20:57:17.40 [CE][Storage] ver:21 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+20:57:17.40 [CE][Storage] ver:21 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+20:57:17.40 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+20:57:17.40 [CE][DynamicEvent] Load  Events:[37] Primary spawners: 37 Secondary spawners: 1
+20:57:17.40 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+20:57:17.56 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+20:57:17.56 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+20:57:17.56 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 708 items.
+20:57:17.384   708 items loaded.
+20:57:17.384 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+20:57:17.399 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+20:57:17.399 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+20:57:17.399 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1274 items.
+20:57:17.774   1274 items loaded.
+20:57:17.774 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+20:57:17.774 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+20:57:17.790 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+20:57:17.790 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2080 items.
+20:57:18.196   2080 items loaded.
+20:57:18.196 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+20:57:18.212 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+20:57:18.212 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+20:57:18.212 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1610 items.
+20:57:18.509   1610 items loaded.
+20:57:18.509 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+20:57:18.524 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+20:57:18.524 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+20:57:18.524 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1640 items.
+20:57:18.962   1640 items loaded.
+20:57:18.962 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+20:57:18.977 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+20:57:18.977 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+20:57:18.977 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 1739 items.
+20:57:19.306   1739 items loaded.
+20:57:19.306 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+20:57:19.321 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+20:57:19.321 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+20:57:19.321 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1279 items.
+20:57:19.587   1279 items loaded.
+20:57:19.587 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+20:57:19.587 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+20:57:19.602 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+20:57:19.602 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1256 items.
+20:57:19.852   1256 items loaded.
+20:57:19.852 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+20:57:19.852 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+20:57:19.868 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+20:57:19.868 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 1799 items.
+20:57:20.243   1799 items loaded.
+20:57:20.243 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+20:57:20.243 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+20:57:20.259 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+20:57:20.259 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2227 items.
+20:57:20.680   2227 items loaded.
+20:57:20.680 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+20:57:20.696 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+20:57:20.696 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+20:57:20.696 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1407 items.
+20:57:20.977   1407 items loaded.
+20:57:20.977 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+20:57:20.977 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+20:57:20.993 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+20:57:20.993 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 136 items.
+20:57:21.09   136 items loaded.
+20:57:21.09 [CE][Storage] ver:25 stamp:3718, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+20:57:21.24 [CE][Storage] ver:25 stamp:3716, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+20:57:21.40 [CE][Storage] ver:25 stamp:3717, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+20:57:21.40 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 142 items.
+20:57:22.87   142 items loaded.
+20:57:22.134 [CE][Hive] :: Storage load took:5.09 seconds, recovery stamp:3718
+20:57:22.134   entity: 22025, building: 0
+20:57:22.134   no lifetime: 17
+20:57:22.134 [CE][Hive] :: Initializing ... 
+20:57:22.134 [CE][InitializeMap] :: initialized: 0
+20:57:22.134 [CE][Hive] :: Initializing spawners ... 
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Hatchback_02_Trunk_RedRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.87 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Sedan_02_Door_1_2_GreyRust"
+20:57:23.102 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:173, Nominal:20826, Total in Map: 17503 at 0 (sec)
+20:57:23.102   tests:173, repeats:0 fails:0, overtime:19
+20:57:23.102 [CE][DynEvent] :: 37 types
+20:57:23.102 [00] AmbientHen
+20:57:23.102   Primary Spawner: "Ambient", active: yes, repeat: 1
+20:57:23.102 [01] AnimalBear
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [02] AnimalCow
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [03] AnimalDeer
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [04] AnimalGoat
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [05] AnimalPig
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [06] AnimalRoeDeer
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [07] AnimalSheep
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [08] AnimalWildBoar
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [09] AnimalWolf
+20:57:23.102   Primary Spawner: "Animal", active: yes, repeat: 1
+20:57:23.102 [10] InfectedArmy
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [11] InfectedCity
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [12] InfectedFirefighter
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [13] InfectedIndustrial
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [14] InfectedMedic
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [15] InfectedPolice
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [16] InfectedPrisoner
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [17] InfectedReligious
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [18] InfectedSolitude
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [19] InfectedVillage
+20:57:23.102   Primary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [20] ItemPlanks
+20:57:23.102   Primary Spawner: "Item", active: yes, repeat: 1
+20:57:23.102 [21] Loot
+20:57:23.102   Primary Spawner: "Loot", active: yes, repeat: 2
+20:57:23.102 [22] StaticHeliCrash
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102   Secondary Spawner: "Infected", active: yes, repeat: 1
+20:57:23.102 [23] StaticPoliceCar
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102 [24] TrajectoryApple
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [25] TrajectoryCanina
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [26] TrajectoryConiferous
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [27] TrajectoryDeciduous
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [28] TrajectoryHumus
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [29] TrajectoryPear
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [30] TrajectoryPlum
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [31] TrajectorySambucus
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [32] TrajectoryStones
+20:57:23.102   Primary Spawner: "Trajectory", active: yes, repeat: 1
+20:57:23.102 [33] VehicleCivilianSedan
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102 [34] VehicleHatchback02
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102 [35] VehicleOffroadHatchback
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102 [36] VehicleSedan02
+20:57:23.102   Primary Spawner: "Vehicle", active: yes, repeat: 1
+20:57:23.102 [CE][Hive] :: Initializing of spawners done.
+20:57:23.102 [CE][Hive] :: Init sequence finished.
+20:57:23.102 Player connect enabled
+20:57:23.337 [Login]: Adding player Survivor (604660882) to login queue at position 0
+20:57:23.337 [LoginMachine]: Add player Survivor (604660882)
+20:57:23.337 [StateMachine]: Player Survivor (dpnid 604660882 uid ) Entering AuthPlayerLoginState
+20:57:23.805 [IdleMode] Entering IN - save processed
+20:57:23.946 [StateMachine]: Player Survivor (dpnid 604660882 uid ) Entering WaitAuthPlayerLoginState
+20:57:25.602 [IdleMode] Leaving OUT
+20:57:25.711 Player Survivor connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+20:57:25.711 Player "Survivor" is connected (steamID=76561198073956794)
+20:57:27.274 [Login]: Adding player Survivor (275545342) to login queue at position 0
+20:57:27.274 [LoginMachine]: Add player Survivor (275545342)
+20:57:27.274 [StateMachine]: Player Survivor (dpnid 275545342 uid ) Entering AuthPlayerLoginState
+20:57:27.477 [StateMachine]: Player Survivor (dpnid 275545342 uid ) Entering WaitAuthPlayerLoginState
+20:57:27.914 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+20:57:27.946 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+20:57:28.758 Player Survivor (2) connected (id=g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=).
+20:57:28.758 Player "Survivor (2)" is connected (steamID=76561197980071063)
+20:57:29.758 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetLoginTimeLoginState
+20:57:29.789 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBWaitLoginTimeLoginState
+20:57:42.960 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+20:57:42.991 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+20:57:43.07 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+20:57:43.23 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+20:57:44.804 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering DBGetCharacterLoginState
+20:57:44.835 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering CreateNetObjectsLoginState
+20:57:44.851 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering PreloadCamLoginState
+20:57:44.866 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering WaitPreloadCamLoginState
+20:57:59.631 [StateMachine]: Player Survivor (dpnid 604660882 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+20:58:02.428 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 604660882
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+20:58:02.771 [StateMachine]: Player Survivor (dpnid 275545342 uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=) Entering GetLoadedCharLoginState
+20:58:02.803 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 275545342
+    uid g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4=
+20:59:20.749 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "CivSedanDoors_BackLeft_WhiteRust"
+20:59:25.124 [CE][Links] found 0 total links between groups, of 1
+20:59:25.124 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 15
+20:59:25.124 [CE][Links] found 0 total links between groups, of 2
+20:59:25.124 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 18
+20:59:25.124 [CE][Links] found 0 total links between groups, of 3
+20:59:25.124 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 12
+21:00:20.205 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "PrisonerCap"
+21:00:20.205 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "PrisonerCap"
+21:00:20.205 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "PrisonerCap"
+21:00:20.205 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "PrisonerCap"
+21:00:49.156 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "BloodBagEmpty"
+21:00:55.93 [Login]: Adding player Survivor (29690590) to login queue at position 0
+21:00:55.93 [LoginMachine]: Add player Survivor (29690590)
+21:00:55.93 [StateMachine]: Player Survivor (dpnid 29690590 uid ) Entering AuthPlayerLoginState
+21:00:55.312 [StateMachine]: Player Survivor (dpnid 29690590 uid ) Entering WaitAuthPlayerLoginState
+21:00:56.736 Player Survivor (3) connected (id=Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=).
+21:00:56.736 Player "Survivor (3)" is connected (steamID=76561198123513865)
+21:00:57.393 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetLoginTimeLoginState
+21:00:57.424 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBWaitLoginTimeLoginState
+21:01:12.438 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering DBGetCharacterLoginState
+21:01:12.470 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering CreateNetObjectsLoginState
+21:01:12.485 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering PreloadCamLoginState
+21:01:12.501 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering WaitPreloadCamLoginState
+21:01:18.797 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "BomberJacket_Olive"
+21:01:29.687 [StateMachine]: Player Survivor (dpnid 29690590 uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=) Entering GetLoadedCharLoginState
+21:01:29.734 <LOAD EXISTING CHAR>:
+    charID 3
+    playerID 3
+    dpnid 29690590
+    uid Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4=
+21:02:47.744 [Login]: Adding player Survivor (143473542) to login queue at position 0
+21:02:47.744 [LoginMachine]: Add player Survivor (143473542)
+21:02:47.744 [StateMachine]: Player Survivor (dpnid 143473542 uid ) Entering AuthPlayerLoginState
+21:02:47.963 [StateMachine]: Player Survivor (dpnid 143473542 uid ) Entering WaitAuthPlayerLoginState
+21:02:50.744 Player Survivor (4) connected (id=TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=).
+21:02:50.744 Player "Survivor (4)" is connected (steamID=76561198117054021)
+21:02:52.169 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering DBGetLoginTimeLoginState
+21:02:52.200 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering DBWaitLoginTimeLoginState
+21:03:07.215 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering DBGetCharacterLoginState
+21:03:07.246 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering CreateNetObjectsLoginState
+21:03:07.261 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering PreloadCamLoginState
+21:03:07.261 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering WaitPreloadCamLoginState
+21:03:25.307 [StateMachine]: Player Survivor (dpnid 143473542 uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=) Entering GetNewCharLoginState
+21:03:25.370 <CREATE NEW CHAR>:
+    charID 5
+    playerID 5
+    dpnid 143473542
+    uid TB7DDQ707Si6Zp955HxjyHcu3uN7bgkYQ6aFmC-C-q4=
+21:05:14.300 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "MP5K"
+21:05:14.300 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "MP5K"
+21:06:14.655 !!! [CE][Point] Removing 6131.912109, 9226.710938 from CaninaBush2
+21:07:40.946 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Handcuffs"
+21:08:42.81 !!! [CE][Point] Removing 7923.387695, 14785.163086 from AppleTree2
+21:15:04.465 !!! [CE][Point] Removing 6116.876953, 9325.213867 from AppleTree2
+21:15:04.793 !!! [CE][Point] Removing 6131.912109, 9226.710938 from CaninaBush2
+21:15:32.26 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "TTsKOJacket_Camo"
+21:17:02.580 [Login]: Adding player Survivor (1007382074) to login queue at position 0
+21:17:02.580 [LoginMachine]: Add player Survivor (1007382074)
+21:17:02.580 [StateMachine]: Player Survivor (dpnid 1007382074 uid ) Entering AuthPlayerLoginState
+21:17:02.783 [StateMachine]: Player Survivor (dpnid 1007382074 uid ) Entering WaitAuthPlayerLoginState
+21:17:04.283 Player Survivor (5) connected (id=7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=).
+21:17:04.283 Player "Survivor (5)" is connected (steamID=76561197988278919)
+21:17:07.595 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBGetLoginTimeLoginState
+21:17:07.626 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBWaitLoginTimeLoginState
+21:17:22.641 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering DBGetCharacterLoginState
+21:17:22.672 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering CreateNetObjectsLoginState
+21:17:22.688 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering PreloadCamLoginState
+21:17:22.688 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering WaitPreloadCamLoginState
+21:17:40.187 [StateMachine]: Player Survivor (dpnid 1007382074 uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=) Entering GetLoadedCharLoginState
+21:17:40.218 <LOAD EXISTING CHAR>:
+    charID 4
+    playerID 4
+    dpnid 1007382074
+    uid 7NDJh96K6x1RxBha65ocGyIjcIR-hGhT0OTk52eEsiI=
+21:19:00.681 !!! [CE][Point] Removing 6034.183594, 10636.931641 from PearTree1
+21:19:56.255 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "PoliceCap"
+21:20:28.503 !!! [CE][Point] Removing 10502.754883, 2424.913574 from Stones
+21:20:56.63 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "NBCPantsGray"
+21:21:28.327 !!! [CE][Point] Removing 5539.704590, 12285.692383 from PearTree2
+21:31:44.998 !!! [CE][Point] Removing 5952.902832, 10153.498047 from Haybale
+21:32:45.744 !!! [CE][Point] Removing 5953.219238, 10154.462891 from Haybale
+21:33:39.771 !!! [CE][Point] Removing 11072.730469, 2693.431641 from Land_Boat_Small3
+21:41:35.129 !!! [CE][Point] Removing 5763.120117, 10001.361328 from PiceaAbies_fallenC
+21:42:58.686 !!! [CE][Point] Removing 11656.756836, 3110.696289 from Land_Boat_Small3
+21:43:01.967 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+21:44:28.867 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+21:45:28.316 [CE][Links] found 0 total links between groups, of 4
+21:45:28.316 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 14
+21:45:55.221 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "PoliceCap"
+21:46:24.313 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "PlateCarrierVest"
+21:46:24.313 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "PlateCarrierVest"
+21:46:29.125 [CE][Links] found 0 total links between groups, of 5
+21:46:29.125 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 10
+21:46:29.125 [CE][Links] found 2 total links between groups, of 6
+21:46:29.125 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 16
+21:46:53.623 !!! [CE][Point] Removing 6510.253906, 3577.356445 from Land_BusStation_wall_bench
+21:48:24.164 !!! [CE][Point] Removing 5940.871582, 10135.625000 from Haybale
+21:49:24.971 !!! [CE][Point] Removing 5943.971680, 10140.609375 from Haybale
+21:49:50.563 !!! [CE][Point] Removing 6497.203125, 3577.646484 from Land_BusStation_wall_bench
+21:50:51.246 !!! [CE][Point] Removing 5759.755859, 10013.334961 from PiceaAbies_stump
+21:51:18.479 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Mag_CMAG_30Rnd"
+21:51:48.117 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "TacticalGoggles"
+21:55:14.182 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "PolicePantsOrel"
+21:55:14.182 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "PolicePantsOrel"
+21:56:46.925 !!! [CE][Point] Removing 11912.053711, 8955.094727 from AppleTree1
+21:58:14.513 !!! [CE][Point] Removing 5763.120117, 10001.361328 from PiceaAbies_fallenC
+22:02:08.449 !!! [CE][Point] Removing 12131.434570, 7229.556152 from AppleTree1
+22:03:04.62 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Glock19"
+22:04:37.416 !!! [CE][Point] Removing 10793.528320, 8205.488281 from Haybale
+22:18:48.376 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+22:19:49.185 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+22:22:44.32 !!! [CE][Point] Removing 9419.206055, 8804.840820 from PearTree2
+22:31:34.214 !!! [CE][Point] Removing 6107.955078, 7751.251465 from PearTree2
+22:32:32.726 [CE][Links] found 2 total links between groups, of 7
+22:32:32.726 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 14
+22:32:32.742 [CE][Links] found 2 total links between groups, of 8
+22:32:32.742 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 11
+22:32:32.757 [CE][Links] found 2 total links between groups, of 9
+22:32:32.757 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 17
+22:33:01.162 !!! [CE][Point] Removing 5706.419922, 10213.328125 from PearTree3
+22:40:23.365 !!! [CE][Point] Removing 5763.120117, 10001.361328 from PiceaAbies_fallenC
+23:02:25.714 !!! [CE][Point] Removing 6315.318359, 7578.545410 from PlumTree1
+23:03:26.163 !!! [CE][Point] Removing 4606.951660, 9548.872070 from PearTree2
+23:04:53.111 !!! [CE][Point] Removing 6107.955078, 7751.251465 from PearTree2
+23:18:36.148 [CE][Links] found 2 total links between groups, of 10
+23:18:36.148 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13
+23:18:36.148 [CE][Links] found 2 total links between groups, of 11
+23:18:36.148 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 19
+23:18:36.163 [CE][Links] found 2 total links between groups, of 12
+23:18:36.163 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 12
+23:35:16.178 !!! [CE][Point] Removing 4039.028320, 11714.323242 from CaninaBush1
+23:36:16.924 !!! [CE][Point] Removing 4032.880371, 11725.343750 from CaninaBush1
+23:37:44.152 !!! [CE][Point] Removing 4011.992676, 11929.033203 from PiceaAbies_2d
+23:45:34.138 !!! [CE][Point] Removing 7014.945801, 12762.762695 from PearTree3
+23:50:00.337 [Disconnect]: Start script disconnect 604660882 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+23:50:04.306 [Disconnect]: Client 604660882 disconnecting
+23:50:04.306 [Disconnect]: Client 604660882 early disconnect
+23:50:04.321 [Disconnect]: Start script disconnect 604660882 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+23:50:14.836 [Disconnect]: No packets from 604660882
+23:50:14.836 [Disconnect]: Already in progress 604660882 
+23:50:15.352 [Disconnect]: Finish script disconnect 604660882
+23:50:15.352 [Disconnect]: DisconnectPlayerFinish 604660882
+23:50:15.352 [Disconnect]: Remove player info 604660882
+23:50:15.352 [Disconnect]: Player destroy 604660882 
+ 0:05:39.833 [CE][Links] found 2 total links between groups, of 13
+ 0:05:39.833 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 13
+ 0:05:39.848 [CE][Links] found 2 total links between groups, of 14
+ 0:05:39.848 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 14
+ 0:05:39.848 [CE][Links] found 2 total links between groups, of 15
+ 0:05:39.848 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 10
+ 0:07:10.45 !!! [CE][Point] Removing 7400.923340, 12610.766602 from Stones
+ 0:09:35.798 !!! [CE][Point] Removing 5896.515625, 10024.163086 from PinusSylvestris_3d
+ 0:09:35.798 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+ 0:12:03.553 !!! [CE][Point] Removing 5797.485840, 10057.733398 from PiceaAbies_2d
+ 0:13:16.593 [Login]: Adding player Survivor (32181714) to login queue at position 0
+ 0:13:16.593 [LoginMachine]: Add player Survivor (32181714)
+ 0:13:16.593 [StateMachine]: Player Survivor (dpnid 32181714 uid ) Entering AuthPlayerLoginState
+ 0:13:16.812 [StateMachine]: Player Survivor (dpnid 32181714 uid ) Entering WaitAuthPlayerLoginState
+ 0:13:18.671 Player Survivor connected (id=BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=).
+ 0:13:18.671 Player "Survivor" is connected (steamID=76561198073956794)
+ 0:13:19.436 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetLoginTimeLoginState
+ 0:13:19.468 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBWaitLoginTimeLoginState
+ 0:13:34.482 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering DBGetCharacterLoginState
+ 0:13:34.514 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering CreateNetObjectsLoginState
+ 0:13:34.529 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering PreloadCamLoginState
+ 0:13:34.545 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering WaitPreloadCamLoginState
+ 0:13:54.465 [StateMachine]: Player Survivor (dpnid 32181714 uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=) Entering GetLoadedCharLoginState
+ 0:13:54.512 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 32181714
+    uid BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU=
+ 0:14:35.431 [Disconnect]: Start script disconnect 32181714 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:14:37.994 [Disconnect]: Client 32181714 disconnecting
+ 0:14:37.994 [Disconnect]: Client 32181714 early disconnect
+ 0:14:38.09 [Disconnect]: Start script disconnect 32181714 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:14:38.415 [Disconnect]: Remove player info 32181714
+ 0:14:38.415 [Disconnect]: Player destroy 32181714 
+ 0:14:50.446 [Disconnect]: Finish script disconnect -1
+ 0:15:38.952 [Disconnect]: Start script disconnect 29690590 (dbCharacterId 3 dbPlayerId 3) logoutTime 15
+ 0:15:53.966 [Disconnect]: Finish script disconnect 29690590
+ 0:15:53.966 [Disconnect]: DisconnectPlayerFinish 29690590
+ 0:15:54.560 [Disconnect]: Remove player info 29690590
+ 0:15:54.560 [Disconnect]: Player destroy 29690590 
+ 0:28:43.178 !!! [CE][Point] Removing 5882.768555, 10035.705078 from PinusSylvestris_fallenc
+ 0:35:05.621 !!! [CE][Point] Removing 5763.120117, 10001.361328 from PiceaAbies_fallenC
+ 0:40:28.222 !!! [CE][Point] Removing 6032.153809, 10637.876953 from PearTree1
+ 0:40:28.222 !!! [CE][Point] Removing 6034.183594, 10636.931641 from PearTree1
+ 0:45:22.767 !!! [CE][Point] Removing 8437.317383, 9862.477539 from PiceaAbies_stump
+ 0:50:18.219 !!! [CE][Point] Removing 8390.992188, 12056.384766 from PiceaAbies_fallenB
+ 0:52:44.662 [CE][Links] found 2 total links between groups, of 16
+ 0:52:44.662 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 16
+ 0:52:44.662 [CE][Links] found 2 total links between groups, of 17
+ 0:52:44.662 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 17
+ 0:52:44.678 [CE][Links] found 2 total links between groups, of 18
+ 0:52:44.678 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 15
+ 1:25:05.290 !!! [CE][Point] Removing 7757.701660, 14536.050781 from PearTree2
+ 1:38:48.685 [CE][Links] found 2 total links between groups, of 19
+ 1:38:48.685 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 19
+ 1:38:48.685 [CE][Links] found 2 total links between groups, of 20
+ 1:38:48.685 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 12
+ 1:38:48.700 [CE][Links] found 2 total links between groups, of 21
+ 1:38:48.700 [CE][SpawnRandomLoot] (StaticHeliCrash) :: ChildType: Wreck_UH1Y, lootmin: 10, lootmax: 20, wanted: 11
+ 2:02:52.918 !!! [CE][Point] Removing 5797.485840, 10057.733398 from PiceaAbies_2d
+ 2:12:54.840 [Disconnect]: Start script disconnect 1007382074 (dbCharacterId 4 dbPlayerId 4) logoutTime 15
+ 2:13:00.543 [Disconnect]: Client 1007382074 disconnecting
+ 2:13:00.543 [Disconnect]: Client 1007382074 early disconnect
+ 2:13:00.559 [Disconnect]: Start script disconnect 1007382074 (dbCharacterId 4 dbPlayerId 4) logoutTime 15
+ 2:13:05.855 [Disconnect]: Start script disconnect 143473542 (dbCharacterId 5 dbPlayerId 5) logoutTime 15
+ 2:13:09.855 [Disconnect]: Finish script disconnect 1007382074
+ 2:13:09.855 [Disconnect]: DisconnectPlayerFinish 1007382074
+ 2:13:09.855 [Disconnect]: Remove player info 1007382074
+ 2:13:09.871 [Disconnect]: Player destroy 1007382074 
+ 2:13:10.886 [Disconnect]: Client 143473542 disconnecting
+ 2:13:10.886 [Disconnect]: Client 143473542 early disconnect
+ 2:13:10.902 [Disconnect]: Start script disconnect 143473542 (dbCharacterId 5 dbPlayerId 5) logoutTime 15
+ 2:13:14.667 [Disconnect]: Start script disconnect 275545342 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
+ 2:13:18.636 [Disconnect]: Client 275545342 disconnecting
+ 2:13:18.636 [Disconnect]: Client 275545342 early disconnect
+ 2:13:18.651 [Disconnect]: Start script disconnect 275545342 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
+ 2:13:20.870 [Disconnect]: Finish script disconnect 143473542
+ 2:13:20.870 [Disconnect]: DisconnectPlayerFinish 143473542
+ 2:13:20.870 [Disconnect]: Remove player info 143473542
+ 2:13:20.885 [Disconnect]: Player destroy 143473542 
+ 2:13:29.479 [Disconnect]: No packets from 275545342
+ 2:13:29.479 [Disconnect]: Already in progress 275545342 
+ 2:13:29.682 [Disconnect]: Finish script disconnect 275545342
+ 2:13:29.682 [Disconnect]: DisconnectPlayerFinish 275545342
+ 2:13:29.682 [Disconnect]: Remove player info 275545342
+ 2:13:29.697 [Disconnect]: Player destroy 275545342 
+ 2:14:45.968 [IdleMode] Entering IN - save processed
+13:50:47.303  --- Termination successfully completed --- 

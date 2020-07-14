@@ -1,0 +1,2542 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-13_21-55-31.log started at 13.07. 21:55:32
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,101": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAG_30Rnd:022234
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAG_30Rnd:022234
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAG_30Rnd:022234
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAG_30Rnd:022234
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=SparkPlug:026831
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=ReflexVest:021739
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=ReflexVest:021991
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=ReflexVest:019176
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=ReflexVest:017792
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 end FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItemSimple<8d796a90> item=Mag_AK101_30Rnd:017376
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItemSimple<8d796a90> item=Mag_AK101_30Rnd:016758
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItemSimple<8d796a90> item=Mag_AK101_30Rnd:015556
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:015597
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:015597
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionEatFruit<8d7989d0> item=Apple:08539
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionEatFruit<8d7989d0> item=Apple:08539
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=TetracyclineAntibiotics:011746
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:2162704
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenBarrel<8d79bdb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenBarrel<8d79bdb0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:022211
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:022211
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:14614544
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : [action] SurvivorM_Peter:01 end FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : [action] SurvivorM_Taiki:02 started FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023069
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023069
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:026989
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:022641
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:07201
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:05761
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:06466
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:06788
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDropItem<8d796130> item=M4A1:026807
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItem<8d796130> item=M4A1:026807
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCheckPulse<8d79f870> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCheckPulse<8d79f870> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:022468
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:022468
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started FirearmActionAttachMagazine<743a1ba0> item=UMP45:021117
+SCRIPT       : [action] SurvivorM_Mirek:03 end FirearmActionAttachMagazine<743a1ba0> item=UMP45:021117
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:04184
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:04184
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItemSimple<8d796a90> item=USMCPants_Woodland:015555
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDropItemSimple<8d796a90> item=BDUJacket:016266
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionUnpackBox<8d79a0f0> item=AmmoBox_556x45_20Rnd:025828
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_556x45_20Rnd:025828 parent=SurvivorM_Peter:01 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_556x45<198314b0> count=20
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionUnpackBox<8d79a0f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:025835
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:025835
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:025833
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:025833
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:3997712
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionEmptyMagazine<8d799dd0> item=Mag_STANAG_30Rnd:022936
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:025834
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:025834
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:025836
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:025836
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionEmptyMagazine<8d799dd0> item=Mag_STANAG_30Rnd:022936
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:026839
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:026839
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionLoadMagazine<8d798cf0> item=Mag_STANAGCoupled_30Rnd:026811
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:023735
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:023735
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end FirearmActionAttachMagazine<743a1ba0> item=M4A1:026807
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=Canteen:025836
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=Canteen:025836
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=Canteen:025834
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=Canteen:025834
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=Canteen:025835
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=Canteen:025835
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=Canteen:025833
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=Canteen:025833
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillCoolant<8d79c530> item=Canteen:025833
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillCoolant<8d79c530> item=Canteen:025833
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillCoolant<8d79c530> item=Canteen:025833
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDrinkWellContinuous<8d799510> item=Canteen:025833
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDrinkWellContinuous<8d799510> item=Canteen:025833
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [Logout]: New player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= with logout time 15
+SCRIPT       : [Logout]: Player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= cancelled
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [Logout]: New player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= with logout time 15
+SCRIPT       : [emote] SurvivorM_Mirek:03 play emote id=14 IH=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [Logout]: Player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=CanisterGasoline:025827
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:024580
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:024580
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=CanisterGasoline:025827
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:024582
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:024582
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:024581
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:024581
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:023735
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:023735
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:024583
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:024583
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillFuel<8d79c670> item=CanisterGasoline:024574
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | Do | ACTION COMPONENT RETURNED WRONG VALUE: 6'
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillFuel<8d79c670> item=CanisterGasoline:024574
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillFuel<8d79c670> item=CanisterGasoline:024574
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionFillBottleBase<8d799b50> item=CanisterGasoline:025827
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillFuel<8d79c670> item=CanisterGasoline:024574
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillCoolant<8d79c530> item=Canteen:023740
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillBottleBase<8d799b50> item=CanisterGasoline:025827
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:023740
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionFillFuel<8d79c670> item=CanisterGasoline:025827
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillCoolant<8d79c530> item=Canteen:023730
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillFuel<8d79c670> item=CanisterGasoline:023725
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillFuel<8d79c670> item=CanisterGasoline:023725
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:023741
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Chemlight_Blue:08068
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Canteen:026839
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Canteen:024580
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:04194
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:026944
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=HatchbackWheel:023724
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=HatchbackWheel:023724
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAnimateSeats<8d79e3d0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAnimateSeats<8d79e3d0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAnimateSeats<8d79e3d0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAnimateSeats<8d79e3d0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=WaterBottle:015762
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end FirearmActionAttachMagazine<743a1ba0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionUnpin<97f69670> item=M67Grenade:016807
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionUnpin<97f69670> item=M67Grenade:016807
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=HatchbackWheel:023713 parent=OffroadHatchback_White:023710 slot=-17738153 }
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchSeats<743a01a0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchSeats<743a01a0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=Canteen:024583
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=Canteen:024583
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=Canteen:023740
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=Canteen:023740
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=Canteen:024582
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=Canteen:024582
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=Canteen:023735
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=Canteen:023735
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=Canteen:024581
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=Canteen:024581
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=CanisterGasoline:023725
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=CanisterGasoline:023725
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionFillBottleBase<8d799b50> item=CanisterGasoline:024574
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionFillBottleBase<8d799b50> item=CanisterGasoline:024574
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:09857
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:09857
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023069
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseDoors<8d79ccb0> item=null
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023069
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023533
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionLoadMagazine<8d798cf0> item=Mag_UMP_25Rnd:023533
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionEat<8d798930> item=Rice:016084
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionEat<8d798930> item=Rice:016084
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionSwitchLights<8d79e5b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionSwitchLights<8d79e5b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDropItemSimple<8d796a90> item=Pickaxe:022154
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:015426
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:015426
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=HatchbackDoors_Driver_Blue:024570
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=HatchbackDoors_Driver_Blue:024570
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackDoors_Driver:025433
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackDoors_Driver:025433
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=HatchbackDoors_CoDriver_Blue:024571
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=HatchbackDoors_CoDriver_Blue:024571
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackDoors_CoDriver:025434
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackDoors_CoDriver:025434
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=HatchbackTrunk_Blue:024573
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=HatchbackTrunk_Blue:024573
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEnterLadder<8d79d7f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackTrunk:025436
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackTrunk:025436
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:018589
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=HatchbackHood_Blue:024572
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=HatchbackHood_Blue:024572
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDetach<8d79fff0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDetach<8d79fff0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:018589
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackHood:025435
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackHood:025435
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackHood_Blue:024572
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackHood_Blue:024572
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackTrunk_Blue:024573
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackTrunk_Blue:024573
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackDoors_Driver_Blue:024570
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackDoors_Driver_Blue:024570
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItemToHands<8d79b310> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionAttachOnSelection<97f6a120> item=HatchbackDoors_CoDriver_Blue:024571
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionAttachOnSelection<97f6a120> item=HatchbackDoors_CoDriver_Blue:024571
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:6357008
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDropItemSimple<8d796a90> item=Headtorch_Grey:04216
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenDoors<8d79d610> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenDoors<8d79d610> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 15
+SCRIPT       : [emote] SurvivorM_Peter:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:018821
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:018821
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:022982
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:022982
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:27459600
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:04772
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=DuctTape:026931
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:04369
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:04369
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:20250640
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetInTransport<743a0e20> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStartEngine<8d9751b0> item=Pickaxe:07783
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionStopEngine<97f691f0> item=Pickaxe:07783
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 1
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionTakeItem<8d79d6b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetInTransport<743a0e20> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionWorldCraft<8d797df0> item=SVD:022640
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionWorldCraft<8d797df0> item=SVD:022640
+SCRIPT       : Rope rope =   NULL
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStartEngine<8d9751b0> item=UMP45:021857
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionEmptyMagazine<8d799dd0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionEmptyMagazine<8d799dd0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:023434
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionLoadMagazine<8d798cf0> item=Mag_SVD_10Rnd:022960
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:021059
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:021059
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 3
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:983056
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionStopEngine<97f691f0> item=UMP45:021857
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenCarDoors<8d4940b0> item=null
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionGetOutTransport<8d79b590> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseCarDoors<8d4933b0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Warning - CanFSwap #5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 5
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Mirek:03 started ActionDrinkCan<8d79b090> item=SodaCan_Cola:021233
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Mirek:03 end ActionDrinkCan<8d79b090> item=SodaCan_Cola:021233
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionDropItem<8d796130> item=Barrel_Yellow:09326
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItem<8d796130> item=Barrel_Yellow:09326
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionOpenBarrel<8d79bdb0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionOpenBarrel<8d79bdb0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [Logout]: New player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= with logout time 15
+SCRIPT       : [emote] SurvivorM_Mirek:03 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player g2dFRpJHjkFhN2nNo1Kv_jZt_jD5Wo4vMF7lAR14vy4= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE id:1
+SCRIPT       : SAVE id_bit_offset:4
+SCRIPT       : SAVE write_result:14614544
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 started ActionCloseBarrel<8d79cad0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionCloseBarrel<8d79cad0> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Apple:017415
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Apple:026865
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Apple:07181
+SCRIPT       : [action] SurvivorM_Taiki:02 end ActionDropItemSimple<8d796a90> item=Apple:013138
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [Logout]: New player Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4= with logout time 15
+SCRIPT       : [emote] SurvivorM_Taiki:02 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : ~DayZGame()

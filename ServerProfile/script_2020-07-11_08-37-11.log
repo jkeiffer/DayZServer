@@ -1,0 +1,85 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-11_08-37-11.log started at 11.07. 08:37:11
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,101": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<97afae0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<97afae0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<97afae0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<97afae0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<97afae0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<97afae0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionTakeItem<97afae0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionTakeItem<97afae0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<97b0760> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<97b0760> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<97b0760> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<97b0760> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<97b0760> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<97b0760> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<97b0760> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<97b0760> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenDoors<97b0760> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenDoors<97b0760> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionDrink<97ab4e0> item=Canteen:027844
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionDrink<97ab4e0> item=Canteen:027844
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionEmptyMagazine<97ac8e0> item=Mag_FNX45_15Rnd:025805
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionEmptyMagazine<97ac8e0> item=Mag_FNX45_15Rnd:025805
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [emote] SurvivorM_Peter:01 play emote id=11 IH=null
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [emote] SurvivorM_Peter:01 play emote id=11 IH=Colt1911:027845
+SCRIPT       : SurvivorM_Peter:01 STS=11639 event EEKilled, player has died at STS=11639
+SCRIPT       : EEKilled - processing corpse
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged - human not alive! calling ResetWeaponInHands
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with instant logout
+SCRIPT       : [Logout]: Player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= finished
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:379
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 15
+SCRIPT       : [emote] SurvivorM_Peter:02 play emote id=14 IH=Colt1911:015885
+SCRIPT       : [Logout]: Player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061

@@ -1,0 +1,99 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\crash_2020-07-11_08-48-51.log started at 11.07. 08:54:17
+
+
+
+------------------------------------
+NCC-1701, 11.07 2020 08:54:17
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:379
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 
+
+
+------------------------------------
+NCC-1701, 11.07 2020 12:03:57
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:370
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 
+
+
+------------------------------------
+NCC-1701, 11.07 2020 12:29:41
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:370
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 
+
+
+------------------------------------
+NCC-1701, 11.07 2020 14:54:00
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:370
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 
+
+
+------------------------------------
+NCC-1701, 11.07 2020 14:56:34
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:370
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 
+
+
+------------------------------------
+NCC-1701, 11.07 2020 14:59:27
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:99
+scripts/5_Mission/mission\missionserver.c:379
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 120 

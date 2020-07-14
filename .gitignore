@@ -1,0 +1,12 @@
+addons
+appcache
+battleye
+bliss
+config
+docs
+dta
+keys
+logs
+steamapps
+*.exe
+*.dll

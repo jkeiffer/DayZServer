@@ -1,0 +1,39 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-11_08-15-09.log started at 11.07. 08:15:09
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,104": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:102
+scripts/5_Mission/mission\missionserver.c:379
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+SCRIPT       : [action] SurvivorM_Peter:01 started FirearmActionAttachMagazine<311944e0> item=Colt1911:027612
+SCRIPT       : [action] SurvivorM_Peter:01 end FirearmActionAttachMagazine<311944e0> item=Colt1911:027612
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<24100710> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<24100710> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<31195f60> item=Colt1911:027612
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<31195f60> item=Colt1911:027612
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<240ff7a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<240ff7a0> item=null
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 0
+SCRIPT       : [Logout]: Player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : ~DayZGame()

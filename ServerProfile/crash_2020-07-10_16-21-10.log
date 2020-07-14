@@ -1,0 +1,19 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\crash_2020-07-10_16-21-10.log started at 10.07. 16:22:58
+
+
+
+------------------------------------
+NCC-1701, 10.07 2020 16:22:58
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:100
+scripts/5_Mission/mission\missionserver.c:370
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+
+Runtime mode
+CLI params: config serverDZ.cfg profiles ServerProfile limitFPS 30 

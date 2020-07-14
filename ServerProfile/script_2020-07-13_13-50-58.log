@@ -1,0 +1,156 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-13_13-50-58.log started at 13.07. 13:50:58
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,101": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionOpenDoors<42ff1d00> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionOpenDoors<42ff1d00> item=null
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionOpenDoors<42ff1d00> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionOpenDoors<42ff1d00> item=null
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionOpenBarrel<42ff3600> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionOpenBarrel<42ff3600> item=null
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionCloseBarrel<42ff3920> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionCloseBarrel<42ff3920> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : PlayerBase.c IsQuickBarSingleUse - slot: 2
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=AmmoBox_9x19_25rnd:011672
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started FirearmActionAttachMagazine<36109de0> item=AK74:012916
+SCRIPT       : [action] SurvivorM_Taiki:01 end FirearmActionAttachMagazine<36109de0> item=AK74:012916
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started FirearmActionAttachMagazine<36109de0> item=AKM:012838
+SCRIPT       : [action] SurvivorM_Taiki:01 end FirearmActionAttachMagazine<36109de0> item=AKM:012838
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started FirearmActionAttachMagazine<36109de0> item=AKM:012930
+SCRIPT       : [action] SurvivorM_Taiki:01 end FirearmActionAttachMagazine<36109de0> item=AKM:012930
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started FirearmActionAttachMagazine<36109de0> item=AK74:012924
+SCRIPT       : [action] SurvivorM_Taiki:01 end FirearmActionAttachMagazine<36109de0> item=AK74:012924
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started FirearmActionAttachMagazine<36109de0> item=AK101:012841
+SCRIPT       : [action] SurvivorM_Taiki:01 end FirearmActionAttachMagazine<36109de0> item=AK101:012841
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012929
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012929
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012874
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012874
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012928
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:012928
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Taiki:01 started ActionLoadMagazine<42ff00e0> item=Mag_STANAG_30Rnd:026023
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionLoadMagazine<42ff00e0> item=Mag_STANAG_30Rnd:026023
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : ********* LoadStats loading version: 106
+SCRIPT       : LOAD checksum:2065646061
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:02 started ActionUnpackBox<42fef960> item=AmmoBox_556x45Tracer_20Rnd:07335
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_556x45Tracer_20Rnd:07335 parent=SurvivorM_Peter:02 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_556x45Tracer<9247a430> count=20
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:02 end ActionUnpackBox<42fef960> item=null
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:02 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:05638
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=ReflexVest:026080
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=ReflexVest:026081
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=ReflexVest:026083
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:02 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:05638
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=ReflexVest:026094
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:02 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:04956
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : [action] SurvivorM_Taiki:01 end ActionDropItemSimple<42feece0> item=SparkPlug:026069
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:02 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:04956
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:02 started ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:05316
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:02 end ActionEmptyMagazine<42ff1760> item=Mag_AK101_30Rnd:05316
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:02 started ActionLoadMagazine<42ff00e0> item=Mag_STANAG_30Rnd:06196
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'Interupt in actionbase called - server'
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : true'
+SCRIPT       : [action] SurvivorM_Peter:02 end ActionLoadMagazine<42ff00e0> item=Mag_STANAG_30Rnd:06196
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 15
+SCRIPT       : [emote] SurvivorM_Peter:02 play emote id=14 IH=Mag_STANAG_30Rnd:09560
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [Logout]: New player Vhnx0c62d7_GbpGdbpwaxNkeYxa0MkaiNJ4yueo4Tv4= with logout time 15
+SCRIPT       : [emote] SurvivorM_Taiki:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= finished
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : ~DayZGame()

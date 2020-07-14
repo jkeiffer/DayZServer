@@ -1,0 +1,85 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-11_06-15-58.log started at 11.07. 06:15:58
+
+SCRIPT       : Registered 220 temporary action enum(s), UAN==220
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,102": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : childCount:34
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "greathelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gasmask_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Motohelmet_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : AnimSoundObjectBuilderBank: Invalid sound set "Gag_generalgrunt_SoundVoice_Char_SoundSet".
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'StartingEquipSetup'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:100
+scripts/5_Mission/mission\missionserver.c:379
+scripts/5_Mission/mission\missionserver.c:405
+scripts/5_Mission/mission\missionserver.c:164
+scripts/3_Game/dayzgame.c:1293
+SCRIPT       : [action] SurvivorM_Peter:01 started FirearmActionAttachMagazine<326a1970> item=Colt1911:027617
+SCRIPT       : [action] SurvivorM_Peter:01 end FirearmActionAttachMagazine<326a1970> item=Colt1911:027617
+SCRIPT       : inv: DayZPlayerImplement::OnItemInHandsChanged: 
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<326a00f0> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<326a00f0> item=null
+SCRIPT       : Saving stats in version: 106
+SCRIPT       : SAVE CHECKSUM:2065646061
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<2e07a910> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<2e07a910> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<3735bad0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<3735bad0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<3735bad0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<3735bad0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<27672a30> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<27672a30> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetInTransport<326a00f0> item=null
+SCRIPT       : OnVehicleSeatDriverEnter
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetInTransport<326a00f0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionCloseCarDoors<2e07a910> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionCloseCarDoors<2e07a910> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : OnStartAnimationLoop
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStartEngine<2e4e73e0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionStopEngine<3735bad0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionStopEngine<3735bad0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionOpenCarDoors<2e07b3a0> item=null
+SCRIPT       : [action] SurvivorM_Peter:01 started ActionGetOutTransport<27672a30> item=null
+SCRIPT       : string s =    'ActionBase.c | ActionBaseCB | OnFinish called : false'
+SCRIPT       : [action] SurvivorM_Peter:01 end ActionGetOutTransport<27672a30> item=null
+SCRIPT       : OnVehicleSeatDriverLeft
+SCRIPT       : [Logout]: New player BvAfWEwkf1BS22gq16ncvW4M3Ycn_607DPSKzJe9pnU= with logout time 15
+SCRIPT       : [emote] SurvivorM_Peter:01 play emote id=14 IH=null
+SCRIPT       : ~DayZGame()
