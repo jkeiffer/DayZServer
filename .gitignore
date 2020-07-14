@@ -9,5 +9,8 @@ keys
 logs
 ServerProfile
 steamapps
+server_Josh_Local.bat
+serverDZ_Josh_Local.cfg
 *.exe
 *.dll
+**/storage_1/
