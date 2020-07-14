@@ -11,4 +11,4 @@ ServerProfile
 steamapps
 *.exe
 *.dll
-storage_1
+**/storage_1/
