@@ -1,8 +1,0 @@
----------------------------------------------
-Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\ServerProfile\script_2020-07-11_07-37-59.log started at 11.07. 07:38:00
-
-SCRIPT       : Registered 220 temporary action enum(s), UAN==220
-SCRIPT       : CreateGame()
-SCRIPT       : ... Backlit Effects Enabled
-SCRIPT    (W): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,102": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
-SCRIPT       : ~DayZGame()
